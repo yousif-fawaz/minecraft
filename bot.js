@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const botArgs = {
-    host: '911gt3rs-Ozwe.aternos.me', // حط الأيبي مالتك هنا
-    port: 50978,
+    host: 'gold.magmanode.com', // حط الأيبي مالتك هنا
+    port: 27891,
     username: 'BalaBot',
     version: '1.21.11' 
 }
